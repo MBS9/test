@@ -1,5 +1,5 @@
 {
- "content": "hello", 
+ "content": "TEST CHANGE", 
  "paths":{
   "/people/2/persons":{
    "get":{
@@ -8,7 +8,7 @@
      "people",
      "person-profile"
     ],
-    "summary":"Get a single person or a list of people",
+    "summary":"TEST CHANGE",
    }
   }
  }
