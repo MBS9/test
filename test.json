@@ -1,0 +1,15 @@
+{
+ "content": "hello", 
+ "paths":{
+  "/people/2/persons":{
+   "get":{
+    "tags":[
+     "customer-engagement",
+     "people",
+     "person-profile"
+    ],
+    "summary":"Get a single person or a list of people",
+   }
+  }
+ }
+}
